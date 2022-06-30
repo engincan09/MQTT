@@ -1,0 +1,15 @@
+E:\Çalışmalar\MQTT\MQTT.Entity\bin\Debug\net5.0\MQTT.Entity.deps.json
+E:\Çalışmalar\MQTT\MQTT.Entity\bin\Debug\net5.0\MQTT.Entity.runtimeconfig.json
+E:\Çalışmalar\MQTT\MQTT.Entity\bin\Debug\net5.0\MQTT.Entity.runtimeconfig.dev.json
+E:\Çalışmalar\MQTT\MQTT.Entity\bin\Debug\net5.0\MQTT.Entity.dll
+E:\Çalışmalar\MQTT\MQTT.Entity\bin\Debug\net5.0\ref\MQTT.Entity.dll
+E:\Çalışmalar\MQTT\MQTT.Entity\bin\Debug\net5.0\MQTT.Entity.pdb
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\MQTT.Entity.csprojAssemblyReference.cache
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\MQTT.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\MQTT.Entity.AssemblyInfoInputs.cache
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\MQTT.Entity.AssemblyInfo.cs
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\MQTT.Entity.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\MQTT.Entity.dll
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\ref\MQTT.Entity.dll
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\MQTT.Entity.pdb
+E:\Çalışmalar\MQTT\MQTT.Entity\obj\Debug\net5.0\MQTT.Entity.genruntimeconfig.cache

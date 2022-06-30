@@ -1,0 +1,12 @@
+E:\Çalışmalar\MQTT\MQTT.Dto\bin\Debug\net5.0\MQTT.Dto.deps.json
+E:\Çalışmalar\MQTT\MQTT.Dto\bin\Debug\net5.0\MQTT.Dto.dll
+E:\Çalışmalar\MQTT\MQTT.Dto\bin\Debug\net5.0\ref\MQTT.Dto.dll
+E:\Çalışmalar\MQTT\MQTT.Dto\bin\Debug\net5.0\MQTT.Dto.pdb
+E:\Çalışmalar\MQTT\MQTT.Dto\obj\Debug\net5.0\MQTT.Dto.csprojAssemblyReference.cache
+E:\Çalışmalar\MQTT\MQTT.Dto\obj\Debug\net5.0\MQTT.Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Çalışmalar\MQTT\MQTT.Dto\obj\Debug\net5.0\MQTT.Dto.AssemblyInfoInputs.cache
+E:\Çalışmalar\MQTT\MQTT.Dto\obj\Debug\net5.0\MQTT.Dto.AssemblyInfo.cs
+E:\Çalışmalar\MQTT\MQTT.Dto\obj\Debug\net5.0\MQTT.Dto.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\MQTT\MQTT.Dto\obj\Debug\net5.0\MQTT.Dto.dll
+E:\Çalışmalar\MQTT\MQTT.Dto\obj\Debug\net5.0\ref\MQTT.Dto.dll
+E:\Çalışmalar\MQTT\MQTT.Dto\obj\Debug\net5.0\MQTT.Dto.pdb
