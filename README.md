@@ -7,8 +7,9 @@ MQTT protokolü, kısıtlı bant genişliği sebebiyle gecikmeler yaşanan ve ka
 
 <h3>MQTT Nasıl Çalışır?</h3>
 MQTT, publisher/subscriber mimarisine sahiptir. Yani bir client bir topic’e abone olmaktadır. O topic üzerinden herhangi bir yayın yapıldığı zaman broker abone olmuş client’e mesajı iletir. <br>
-![image](https://user-images.githubusercontent.com/77447979/176766917-a4473923-8966-4a7d-b9a7-1188f3f8f969.png)
 
 
 
 
+
+![image](https://user-images.githubusercontent.com/77447979/176767209-40c00035-2809-4660-a05d-80f4af22c8d3.png)
