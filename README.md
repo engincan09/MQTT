@@ -1,7 +1,7 @@
 # MQTT
 
-MQTT (Message Queuing Telemetri Transport'un kısaltması), Nesnelerin İnterneti (IoT) için bir mesajlaşma protokolüdür. <br> Minimum ağ bant genişliği ile uzak cihazları bağlamak için ideal ve son derece hafif bir (publish/subscribe) yayınla/abone ol şeklinde mesajlaşma aktarımı olarak tasarlanmıştır. <br> MQTT günümüzde otomotiv, imalat, telekomünikasyon, petrol ve gaz gibi çok çeşitli endüstrilerde kullanılmaktadır. <br>
-MQTT protokolü, kısıtlı bant genişliği sebebiyle gecikmeler yaşanan ve kararlı olmayan kablosuz ağlar için iyi bir seçimdir.
+MQTT (Message Queuing Telemetri Transport'un kısaltması), Nesnelerin İnterneti (IoT) için bir mesajlaşma protokolüdür. <br> Minimum ağ bant genişliği ile uzak cihazları bağlamak için ideal ve "yayınla/abone ol" (publish/subscribe) şeklinde mesajlaşma aktarımı olarak tasarlanmıştır. <br> MQTT günümüzde otomotiv, imalat, telekomünikasyon, petrol ve gaz gibi çok çeşitli endüstrilerde kullanılmaktadır. <br>
+MQTT protokolü, kısıtlı bant genişliği sebebiyle gecikmeler yaşanan ve kararlı olmayan kablosuz ağlar için iyi bir seçenektir.
 
 <br>
 
