@@ -13,3 +13,8 @@ MQTT, publisher/subscriber mimarisine sahiptir. Yani bir client bir topic’e ab
 
 
 ![image](https://user-images.githubusercontent.com/77447979/176767209-40c00035-2809-4660-a05d-80f4af22c8d3.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/77447979/176767841-8f5299d1-80b3-4b01-a93c-8120ef2b87ed.png)
+
